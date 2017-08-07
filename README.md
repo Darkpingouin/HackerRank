@@ -21,9 +21,8 @@ I encourage you to try those challenges by yourself and not posting my code to s
 
 - [Regex](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/Introduction)
   - [Introduction](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/Introduction) (6/6)
-  - [Character Class](404) (3/3)
+  - [Character Class](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/CharacterClass) (3/3)
   - [Repetitions] (5/5)
-  - ...
 
 - [SQL](https://github.com/Darkpingouin/HackerRank/tree/master/SQL)
   - [Basic Select](https://github.com/Darkpingouin/HackerRank/tree/master/SQL/BasicSelect) (18/20)
