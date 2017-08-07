@@ -20,7 +20,7 @@ I encourage you to try those challenges by yourself and not posting my code to s
   - [Introduction](https://github.com/Darkpingouin/HackerRank/tree/master/Python/Introduction) (10/10)
 
 - [Regex](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/Introduction)
-  - [Introduction](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/Introduction) (10/10)
+  - [Introduction](https://github.com/Darkpingouin/HackerRank/tree/master/Regex/Introduction) (6/6)
   - [Character Class](404) (3/3)
   - [Repetitions] (5/5)
   - ...
