@@ -10,4 +10,4 @@ I encourage you to try those challenges by yourself and not posting my code to s
 
 <img src="https://render.bitstrips.com/v2/cpanel/10212044-186542375_10-s4-v1.png?transparent=1&palette=1" width="200"/>
 
-You can find a list of all my solved problems [here](https://github.com/Darkpingouin/HackerRank/Summary.md)
+You can find a list of all my solved problems [here](https://github.com/Darkpingouin/HackerRank/blob/master/Summary.md)
